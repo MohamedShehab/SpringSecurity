@@ -1,0 +1,17 @@
+                          << Spring Data Jpa >>
+1-What is Spring Data JPA2- Connect to a real database and not in memory DB.
+3- how to map classes to tables.
+4- Hibernate Entity Life Cycle.
+5- Queries
+6- Paging and sorting.
+7- 1 to 1 Relationships
+8- 1 to many Relationships
+9- Many to Many Relationships
+10- Transactions
+-----------------------------------------------------------------------------------------
+What is the Java Persistence API?
+  The Java Persistence API which provides a specification for persisting, reading, managing data from your Java object to relational tables in the database.
+
+What is Hibernate Framework?
+Hibernate is an Object/Relational Mapping solution for Java environments. Object-relational mapping or ORM is the programming technique to map application domain model objects to the relational database tables. Hibernate is a java based ORM tool that provides a framework for mapping application domain objects to the relational database tables and vice versa.
+
